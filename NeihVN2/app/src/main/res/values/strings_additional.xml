@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Additional Strings -->
+    <string name="full_name">Họ và tên</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="address">Địa chỉ</string>
+    <string name="description">Mô tả</string>
+    <string name="price">Giá</string>
+    <string name="category">Danh mục</string>
+    <string name="image_url">URL hình ảnh</string>
+    <string name="quantity">Số lượng</string>
+    <string name="subtotal">Tạm tính</string>
+    <string name="delivery_fee">Phí giao hàng</string>
+    <string name="total">Tổng cộng</string>
+    <string name="place_order">Đặt hàng</string>
+    <string name="add_to_cart">Thêm vào giỏ hàng</string>
+    <string name="checkout">Thanh toán</string>
+    <string name="empty_cart">Giỏ hàng của bạn đang trống</string>
+    <string name="no_items">Không có mục nào</string>
+</resources>

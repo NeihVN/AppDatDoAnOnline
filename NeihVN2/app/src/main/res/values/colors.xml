@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_orange">#F97316</color>
+    <color name="primary_orange_dark">#EA580C</color>
+    <color name="accent_teal">#14B8A6</color>
+    <color name="accent_yellow">#FACC15</color>
+
+    <!-- Background -->
+    <color name="background">#F9FAFB</color>
+    <color name="background_light">#F9FAFB</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_dark">#1E293B</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+
+    <!-- Status -->
+    <color name="status_success">#10B981</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_error">#EF4444</color>
+
+    <!-- Others -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

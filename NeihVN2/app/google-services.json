@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "903286582193",
+    "project_id": "neihvn2",
+    "storage_bucket": "neihvn2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903286582193:android:f042f994e5cde1f28c2b90",
+        "android_client_info": {
+          "package_name": "com.edu.neihvn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJUUbuSf7fjjfvv7ImZ8CFrIhnL7CFwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903286582193:android:90e6c8d244c6bbf68c2b90",
+        "android_client_info": {
+          "package_name": "necom.eduvn.neihvn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJUUbuSf7fjjfvv7ImZ8CFrIhnL7CFwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

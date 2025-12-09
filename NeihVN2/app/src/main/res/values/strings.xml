@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NeihVN</string>
+
+    <!-- Common -->
+    <string name="ok">Đồng ý</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="loading">Đang tải…</string>
+
+    <!-- Auth -->
+    <string name="email">email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="role_buyer_display">Người mua</string>
+    <string name="role_seller_display">Người bán</string>
+
+    <!-- Navigation -->
+    <string name="home">Trang chủ</string>
+    <string name="orders">Đơn hàng</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="dashboard">Bảng điều khiển</string>
+    <string name="menu">Thực đơn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment trống</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Fragment đầu tiên</string>
+    <string name="second_fragment_label">Fragment thứ hai</string>
+    <string name="next">Tiếp</string>
+    <string name="previous">Quay lại</string>
+
+    <string name="lorem_ipsum">
+        Đây là đoạn văn bản mẫu. Bạn có thể thay thế nội dung này bằng thông tin thực tế của dự án.
+        Văn bản được lặp lại để minh họa bố cục hiển thị trên màn hình. Hãy cập nhật đoạn này bằng
+        mô tả phù hợp với ứng dụng của bạn.\n\n
+        Nội dung mẫu giúp kiểm tra phông chữ, cỡ chữ và cách trình bày khi hiển thị văn bản dài.
+        Giữ nguyên định dạng xuống dòng để dễ dàng quan sát bố cục tổng thể.
+    </string>
+
+    <!-- OTP -->
+    <string name="otp_email_subject">Mã xác thực NeihVN</string>
+    <string name="otp_email_body">
+        Xin chào %1$s,
+\n\nMã xác thực OTP của bạn là: %2$s
+\nMã có hiệu lực trong 5 phút. Vui lòng không chia sẻ mã này cho bất kỳ ai.
+\n\nTrân trọng,\nĐội ngũ NeihVN
+    </string>
+    <string name="otp_dialog_title">Xác thực email</string>
+    <string name="otp_dialog_description">Mã xác thực đã được gửi tới %1$s. Vui lòng nhập mã gồm 6 chữ số để hoàn tất đăng ký.</string>
+    <string name="otp_placeholder">Nhập mã OTP</string>
+    <string name="otp_confirm">Xác nhận</string>
+    <string name="otp_resend">Gửi lại mã</string>
+    <string name="otp_cancel">Hủy</string>
+    <string name="otp_sent_success">Đã gửi mã OTP tới %1$s</string>
+    <string name="otp_send_failed">Không thể gửi mã OTP: %1$s</string>
+    <string name="otp_invalid">Mã xác thực không đúng. Vui lòng kiểm tra và thử lại.</string>
+    <string name="otp_expired">Mã xác thực đã hết hạn. Vui lòng gửi lại mã mới.</string>
+    <string name="otp_resend_wait">Vui lòng đợi %1$d giây trước khi gửi lại mã.</string>
+</resources>
